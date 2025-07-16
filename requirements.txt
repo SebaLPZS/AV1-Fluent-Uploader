@@ -1,0 +1,6 @@
+beautifulsoup4
+plyer
+pyperclip
+requests
+requests-toolbelt
+tkinterdnd2
