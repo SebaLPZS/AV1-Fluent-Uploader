@@ -32,7 +32,7 @@
 
 ## Note
 
-Discord may cache files from temporary hosts for much longer than the files are actually available on the host. Because of this, I recommend using temporary file hosting services to reduce the load on permanent hosts. This helps prevent rate-limiting or bans, and ultimately helps the application remain functional for a longer time
+Discord may cache files from temporary hosts for much longer than the files are actually available on the host. Because of this, I recommend using temporary file hosting services to reduce the load on permanent hosts. This helps prevent rate-limiting or bans, and ultimately helps the application remain functional for a longer time.
 
 ## Installation
 
