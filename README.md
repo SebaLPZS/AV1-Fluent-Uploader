@@ -30,6 +30,10 @@
 4. Click Upload and wait for the progress bar to complete.  
 5. The Markdown link with an embedded AV1 video player will be copied to your clipboard automatically — ideal for sharing videos larger than Discord's upload limits.  
 
+## Note
+
+Discord may cache files from temporary hosts for much longer than the files are actually available on the host. Because of this, I recommend using temporary file hosting services to reduce the load on permanent hosts. This helps prevent rate-limiting or bans, and ultimately helps the application remain functional for a longer time
+
 ## Installation
 
 Make sure you have Python 3 installed, then install dependencies with:
