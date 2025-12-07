@@ -4,3 +4,4 @@ pyperclip
 requests
 requests-toolbelt
 tkinterdnd2
+Pillow
